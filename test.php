@@ -1,1 +1,3 @@
-<?php echo 'testtest';?>
+<?php echo 'testtest';
+echo '666';
+?>
